@@ -6,10 +6,7 @@ Retrieve all sprints for specified project (ex. BES)
             - If no future sprint, create sprint with proper dates and description
   - Active sprint:
       - If no active sprint, change state on **nearest sprint** to active
-  
 2. Determine if completed sprints have issues assigned:
-      - Move issue to active sprint
-
 3. Ensures all issues have valid story points
 
 4. Sends email to list of users on last day of sprint
