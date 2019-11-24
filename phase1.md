@@ -11,9 +11,9 @@ Retrieve all sprints for specified project (ex. BES)
 3. Ensures all issues have valid story points
 
 4. Sends email to list of users on last day of sprint
-  - Completed issues assigned to sprint
-  - Pending issues assigned to sprint
-  - 
+      - Completed issues assigned to sprint
+      - Pending issues assigned to sprint
+      - Completed Story points completed in last sprint 
 
 ### Todo
 **Ref 2**-Check if moving issue to backlog removes all associated sprints
