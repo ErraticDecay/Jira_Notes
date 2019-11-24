@@ -8,4 +8,5 @@ Determine if:
   
 Determine if completed sprints have issues assigned:
   - Move issue to active sprint
+  <span style="color:blue">some *This is Blue italic.* text</span>
   
